@@ -1,0 +1,17 @@
+info:
+  title: 'Overlook'
+  description: 'Check to see if a link might potentially be malicious.'
+  x-21-quick-buy: '21 buy http://10.244.120.4:10112/check?URL=https://21.co/'
+  x-21-category: utilities
+  x-21-app-image: "https://cdn.filepicker.io/api/file/67RBo23TECQt0HVwDEPQ"
+  x-21-total-price:
+    min: 2700
+    max: 2700
+  contact:
+    name: Will Binns
+    email: binns@21.co
+host: 10.244.120.4:10112
+schemes:
+  - http
+basePath: /
+x-21-manifest-path: /manifest
