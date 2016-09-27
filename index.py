@@ -4,7 +4,7 @@
 # / /_/ /| |/ /  __/ /  / / /_/ / /_/ / ,<   
 # \____/ |___/\___/_/  /_/\____/\____/_/|_|  
 
-# Author: Will Binns (telegram.me/wbinns)
+# Author: Will Binns (Threema ID: UFKZ739A | https://threema.ch)
 # Description: Check to see if a link might potentially be malicious.
 # GitHub Repository: Overlook (github.com/wbinns/overlook)
 # License: Unlicense (unlicense.org)
