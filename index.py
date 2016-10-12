@@ -4,9 +4,8 @@
 # / /_/ /| |/ /  __/ /  / / /_/ / /_/ / ,<   
 # \____/ |___/\___/_/  /_/\____/\____/_/|_|  
 
-# Author: Will Binns (Threema ID: UFKZ739A | https://threema.ch)
 # Description: Check to see if a link might potentially be malicious.
-# GitHub Repository: Overlook (github.com/wbinns/overlook)
+# GitHub Repository: Overlook (github.com/cryptopelago/overlook)
 # License: Unlicense (unlicense.org)
 
 # Load libraries
@@ -45,4 +44,4 @@ def docs():
 
 # Init Host
 if __name__=='__main__':
-    app.run(host='::', port='10112')
+    app.run(host='::', port='10122')
